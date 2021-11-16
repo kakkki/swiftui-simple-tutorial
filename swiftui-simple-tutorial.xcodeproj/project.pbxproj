@@ -88,9 +88,8 @@
 		803F9A8C2743AB1100E36B10 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				803F9A9A2743B81600E36B10 /* Landmarks */,
 				803F9A952743B42C00E36B10 /* Helpers */,
-				803F9A8D2743AB2300E36B10 /* LandmarkRow.swift */,
-				803F9A932743B3A700E36B10 /* LandmarkDetail.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -102,6 +101,15 @@
 				803F9A982743B4DB00E36B10 /* FavoriteButton.swift */,
 			);
 			path = Helpers;
+			sourceTree = "<group>";
+		};
+		803F9A9A2743B81600E36B10 /* Landmarks */ = {
+			isa = PBXGroup;
+			children = (
+				803F9A8D2743AB2300E36B10 /* LandmarkRow.swift */,
+				803F9A932743B3A700E36B10 /* LandmarkDetail.swift */,
+			);
+			path = Landmarks;
 			sourceTree = "<group>";
 		};
 		80765A282743A5A300330100 = {
